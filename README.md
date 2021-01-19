@@ -2,7 +2,7 @@
  
 ## 2021
 
-[Maker Coin Challenge](https://willo.blog/maker-coin-challenge)
+Maker Day 2021: <em>Pandemic Edition</em>: [Maker Coin Challenge](https://maker.willo.blog)
 
 ## 2020 
 
