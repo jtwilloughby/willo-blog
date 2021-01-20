@@ -2,9 +2,10 @@
  
 ## 2021
 
-Maker Day 2021: <em>Pandemic Edition</em> 
+Maker Day 2021: *Pandemic Edition*
+ 
 [Maker Coin Challenge](https://maker.willo.blog)
 
 ## 2020 
 
-[hamster.ninja](https://hamster.ninja)
+We say goodbye to our 🐹 at [hamster.ninja](https://hamster.ninja)
